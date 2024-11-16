@@ -4,7 +4,7 @@ Our project, a playful twist on the classic Ouija board experience, aims to ente
 ## TEAM MEMBERS :
 1.m-nayab : https://github.com/m-nayab
 2. Aiswarya11234567 : https://github.com/Aiswarya11234567
-3.https://github.com/govindka
+3.govindka : https://github.com/govindka
 
 ## TEAM ID :
 UKM24N6G
